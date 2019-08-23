@@ -1,0 +1,24 @@
+{
+	"name": "food-delivery-server-goit",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon index.js",
+		"debug": "nodemon --inspect index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/murarova/food-delivery-server-goit.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/murarova/food-delivery-server-goit/issues"
+	},
+	"homepage": "https://github.com/murarova/food-delivery-server-goit",
+	"dependencies": {
+		"query-string": "^6.8.2"
+	}
+}
